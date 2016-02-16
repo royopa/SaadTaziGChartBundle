@@ -30,7 +30,7 @@ How to install it?
 ------------------
 
 Thanks to [AaronDDM](http://example.com/ "AaronDDM"), you can use 
-[composer](http://packagist.org/packages/saad-tazi/g-chart-bundle "composer") to instlall the bundle. 
+[composer](http://packagist.org/packages/saad-tazi/g-chart-bundle "composer") to install the bundle. 
 ```
 composer require saad-tazi/g-chart-bundle
 ```
